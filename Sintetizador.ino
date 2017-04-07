@@ -1,3 +1,5 @@
+//Feito por Mateus Heinen Feltrin - 04/04/2016
+
 #include <LiquidCrystal.h>
 
 //Primeira oitava
